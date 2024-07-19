@@ -5,4 +5,5 @@ This is based on SQLite in Python
 - Write table
 - Send query
 - Nested query
-- Disconnect to the database 
+- Disconnect to the database
+
